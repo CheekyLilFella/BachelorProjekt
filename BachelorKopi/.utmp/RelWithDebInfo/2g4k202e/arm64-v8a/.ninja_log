@@ -1,0 +1,12 @@
+# ninja log v5
+303	758	7650257462474304	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	99cceda1a4c46698
+760	1832	7650257471464883	C:/Users/artby/OneDrive/Dokumenter/Unity/Bachelor - Kopi/BachelorKopi/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2g4k202e/obj/arm64-v8a/libswappywrapper.so	b6d40f0d3aab4daf
+71	2744	7650257482116658	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e607ac07d26d4ac4
+21	2763	7650257482576968	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	6c1bd3a609761557
+151	2804	7650257482820437	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	25b01b4a0c9820ec
+115	2838	7650257483296294	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	37c577ca6362e9f6
+217	3004	7650257484985501	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4c356192aa52d597
+44	3428	7650257489302106	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f1780e2a425e6aa5
+93	3530	7650257490328879	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	217a23cf9970c609
+2	3855	7650257493544368	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	14de132f0f900e69
+3856	4052	7650257495420800	C:/Users/artby/OneDrive/Dokumenter/Unity/Bachelor - Kopi/BachelorKopi/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2g4k202e/obj/arm64-v8a/libgame.so	1afea9fde2bf105

@@ -1,0 +1,28 @@
+Summary Info for boomerang_sym.max (at Frame 0)
+
+Objects:
+  			Cast	Receive	Motion		
+  Name (Type)	Verts	Faces	Shadows	Shadows	Blur	Hidden	Frozen	Material (Type)
+  ------------------------	------------	------------	------------	------------	------------	------------	------------	------------------------
+  Loft02 (Editable Mesh)	698	1384	Yes	Yes	No	No	No	Material #9 (Standard)
+
+
+Scene Totals:
+  Objects: 1
+  Shapes: 0
+  Cameras: 0
+  Lights: 0
+  Helpers: 0
+  Space Warps: 0
+  Total: 1
+
+Mesh Totals:
+
+  Verts: 698
+  Faces: 1384
+Materials:
+
+  Material #9  ( Standard )
+         C:\3DSMAX2\MAPS\boom_map2.bmp
+
+

@@ -1,0 +1,4 @@
+repository "Bachelor@GloriousRock@cloud"
+  path "/"
+    br "/main"
+    co "/main"

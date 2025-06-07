@@ -1,0 +1,23 @@
+# ninja log v5
+23	3093	7618838014315108	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	bc9b0ffce8480e8c
+267	825	7618837991671874	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	8e37eca86e492797
+827	1409	7618837997684525	C:/Users/artby/OneDrive/Dokumenter/Unity/Bachelor/Bachelor/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/125e6t68/obj/arm64-v8a/libswappywrapper.so	51bdd111748668ba
+211	2666	7618838009460340	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	63847ca6363a55e3
+61	2813	7618838011620046	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	44f72eabed89aa35
+135	2688	7618838009783468	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c42ef81836a77af7
+239	2764	7618838011042222	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	cc7351e6468156bc
+92	2679	7618838009959886	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ecf2854a1867674e
+160	2667	7618838009393853	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e38098159deb20e8
+187	2990	7618838013354296	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7b5fa66a45b35bb0
+3094	3472	7618838018215771	C:/Users/artby/OneDrive/Dokumenter/Unity/Bachelor/Bachelor/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/125e6t68/obj/arm64-v8a/libgame.so	c97435e7ac424caa
+212	607	7618839433720539	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	8e37eca86e492797
+609	917	7618839436909769	C:/Users/artby/OneDrive/Dokumenter/Unity/Bachelor/Bachelor/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/125e6t68/obj/arm64-v8a/libswappywrapper.so	51bdd111748668ba
+98	1308	7618839440768617	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ecf2854a1867674e
+138	1321	7618839440881813	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e38098159deb20e8
+117	1328	7618839441010607	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	63847ca6363a55e3
+78	1329	7618839441010607	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c42ef81836a77af7
+41	1437	7618839442143375	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	44f72eabed89aa35
+187	1448	7618839442200348	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	cc7351e6468156bc
+157	1648	7618839444295138	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7b5fa66a45b35bb0
+16	1702	7618839444825605	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	bc9b0ffce8480e8c
+1702	1832	7618839446172371	C:/Users/artby/OneDrive/Dokumenter/Unity/Bachelor/Bachelor/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/125e6t68/obj/arm64-v8a/libgame.so	c97435e7ac424caa
